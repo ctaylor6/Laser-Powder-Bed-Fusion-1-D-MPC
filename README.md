@@ -16,7 +16,7 @@ The workflow starts with solving the heat conduction equation, then introduces a
 
 ## Methodology
 
-![Methodology](figures/YOUR_METHOD_IMAGE.png)
+![Methodology](figures/Method.png)
 
 Development progressed through:
 
